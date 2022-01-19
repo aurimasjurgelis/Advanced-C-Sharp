@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "24408d49-63be-49fb-a5a5-5ad8c8e1ff3a": {
+      "ProjectGuid": "24408d49-63be-49fb-a5a5-5ad8c8e1ff3a",
+      "DisplayName": "CaesarCipher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

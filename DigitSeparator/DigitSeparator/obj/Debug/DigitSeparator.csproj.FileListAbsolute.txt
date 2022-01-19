@@ -1,0 +1,15 @@
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DigitSeparator\DigitSeparator\bin\Debug\DigitSeparator.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DigitSeparator\DigitSeparator\bin\Debug\DigitSeparator.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DigitSeparator\DigitSeparator\bin\Debug\DigitSeparator.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DigitSeparator\DigitSeparator\obj\Debug\DigitSeparator.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DigitSeparator\DigitSeparator\obj\Debug\DigitSeparator.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DigitSeparator\DigitSeparator\obj\Debug\DigitSeparator.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DigitSeparator\DigitSeparator\obj\Debug\DigitSeparator.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DigitSeparator\DigitSeparator\bin\Debug\DigitSeparator.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DigitSeparator\DigitSeparator\bin\Debug\DigitSeparator.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DigitSeparator\DigitSeparator\bin\Debug\DigitSeparator.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DigitSeparator\DigitSeparator\obj\Debug\DigitSeparator.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DigitSeparator\DigitSeparator\obj\Debug\DigitSeparator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DigitSeparator\DigitSeparator\obj\Debug\DigitSeparator.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DigitSeparator\DigitSeparator\obj\Debug\DigitSeparator.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DigitSeparator\DigitSeparator\obj\Debug\DigitSeparator.pdb

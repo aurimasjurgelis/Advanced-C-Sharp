@@ -1,0 +1,6 @@
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\SafeNavigationOperator\After\SafeNavigationOperator\SafeNavigationOperator\bin\Debug\SafeNavigationOperator.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\SafeNavigationOperator\After\SafeNavigationOperator\SafeNavigationOperator\bin\Debug\SafeNavigationOperator.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\SafeNavigationOperator\After\SafeNavigationOperator\SafeNavigationOperator\bin\Debug\SafeNavigationOperator.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\SafeNavigationOperator\After\SafeNavigationOperator\SafeNavigationOperator\obj\Debug\SafeNavigationOperator.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\SafeNavigationOperator\After\SafeNavigationOperator\SafeNavigationOperator\obj\Debug\SafeNavigationOperator.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\SafeNavigationOperator\After\SafeNavigationOperator\SafeNavigationOperator\obj\Debug\SafeNavigationOperator.pdb

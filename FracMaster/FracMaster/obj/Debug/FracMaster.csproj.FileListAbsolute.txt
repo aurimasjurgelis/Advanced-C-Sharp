@@ -1,0 +1,15 @@
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\bin\Debug\FracMaster.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\bin\Debug\FracMaster.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\bin\Debug\FracMaster.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.EditPaletteDialog.resources
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.FractalForm.resources
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.FractalSettingsDialog.resources
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.Generic2DFractalSettings.resources
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.MDIForm.resources
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.Properties.Resources.resources
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.csproj.GenerateResource.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\FracMaster\FracMaster\obj\Debug\FracMaster.pdb

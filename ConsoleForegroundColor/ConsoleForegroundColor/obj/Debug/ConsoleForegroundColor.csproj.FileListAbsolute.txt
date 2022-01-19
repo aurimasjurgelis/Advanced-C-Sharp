@@ -1,0 +1,15 @@
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\ConsoleForegroundColor\ConsoleForegroundColor\bin\Debug\ConsoleForegroundColor.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\ConsoleForegroundColor\ConsoleForegroundColor\bin\Debug\ConsoleForegroundColor.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\ConsoleForegroundColor\ConsoleForegroundColor\bin\Debug\ConsoleForegroundColor.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\ConsoleForegroundColor\ConsoleForegroundColor\obj\Debug\ConsoleForegroundColor.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\ConsoleForegroundColor\ConsoleForegroundColor\obj\Debug\ConsoleForegroundColor.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\ConsoleForegroundColor\ConsoleForegroundColor\obj\Debug\ConsoleForegroundColor.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\ConsoleForegroundColor\ConsoleForegroundColor\obj\Debug\ConsoleForegroundColor.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConsoleForegroundColor\ConsoleForegroundColor\bin\Debug\ConsoleForegroundColor.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConsoleForegroundColor\ConsoleForegroundColor\bin\Debug\ConsoleForegroundColor.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConsoleForegroundColor\ConsoleForegroundColor\bin\Debug\ConsoleForegroundColor.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConsoleForegroundColor\ConsoleForegroundColor\obj\Debug\ConsoleForegroundColor.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConsoleForegroundColor\ConsoleForegroundColor\obj\Debug\ConsoleForegroundColor.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConsoleForegroundColor\ConsoleForegroundColor\obj\Debug\ConsoleForegroundColor.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConsoleForegroundColor\ConsoleForegroundColor\obj\Debug\ConsoleForegroundColor.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConsoleForegroundColor\ConsoleForegroundColor\obj\Debug\ConsoleForegroundColor.pdb

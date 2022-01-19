@@ -1,0 +1,14 @@
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DefaultKeyword\DefaultKeyword\bin\Debug\DefaultKeyword.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DefaultKeyword\DefaultKeyword\bin\Debug\DefaultKeyword.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DefaultKeyword\DefaultKeyword\bin\Debug\DefaultKeyword.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DefaultKeyword\DefaultKeyword\obj\Debug\DefaultKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DefaultKeyword\DefaultKeyword\obj\Debug\DefaultKeyword.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 06\DefaultKeyword\DefaultKeyword\obj\Debug\DefaultKeyword.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DefaultKeyword\DefaultKeyword\bin\Debug\DefaultKeyword.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DefaultKeyword\DefaultKeyword\bin\Debug\DefaultKeyword.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DefaultKeyword\DefaultKeyword\bin\Debug\DefaultKeyword.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DefaultKeyword\DefaultKeyword\obj\Debug\DefaultKeyword.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DefaultKeyword\DefaultKeyword\obj\Debug\DefaultKeyword.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DefaultKeyword\DefaultKeyword\obj\Debug\DefaultKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DefaultKeyword\DefaultKeyword\obj\Debug\DefaultKeyword.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\DefaultKeyword\DefaultKeyword\obj\Debug\DefaultKeyword.pdb

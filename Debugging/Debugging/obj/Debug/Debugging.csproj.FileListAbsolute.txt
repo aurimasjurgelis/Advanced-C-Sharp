@@ -1,0 +1,13 @@
+C:\Users\Ahmad\Desktop\Projects\Debugging\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Ahmad\Desktop\Projects\Debugging\Debugging\bin\Debug\Debugging.exe
+C:\Users\Ahmad\Desktop\Projects\Debugging\Debugging\bin\Debug\Debugging.pdb
+C:\Users\Ahmad\Desktop\Projects\Debugging\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Debugging\Debugging\obj\Debug\Debugging.exe
+C:\Users\Ahmad\Desktop\Projects\Debugging\Debugging\obj\Debug\Debugging.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Debugging\Debugging\bin\Debug\Debugging.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Debugging\Debugging\bin\Debug\Debugging.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Debugging\Debugging\bin\Debug\Debugging.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Debugging\Debugging\obj\Debug\Debugging.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Debugging\Debugging\obj\Debug\Debugging.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Debugging\Debugging\obj\Debug\Debugging.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Debugging\Debugging\obj\Debug\Debugging.pdb

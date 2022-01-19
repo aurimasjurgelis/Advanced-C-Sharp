@@ -1,0 +1,15 @@
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.deps.json
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.runtimeconfig.json
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.dll
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\bin\Debug\net6.0\ref\CaesarCipher.dll
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\bin\Debug\net6.0\CaesarCipher.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.AssemblyInfoInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.AssemblyInfo.cs
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.dll
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\obj\Debug\net6.0\ref\CaesarCipher.dll
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\CaesarCipher\CaesarCipher\obj\Debug\net6.0\CaesarCipher.genruntimeconfig.cache
