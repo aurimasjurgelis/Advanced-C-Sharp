@@ -1,0 +1,22 @@
+E:\C# Course\Chapter 09 - 01\3\Deadlocks\Deadlocks\bin\Debug\Deadlocks.exe.config
+E:\C# Course\Chapter 09 - 01\3\Deadlocks\Deadlocks\bin\Debug\Deadlocks.exe
+E:\C# Course\Chapter 09 - 01\3\Deadlocks\Deadlocks\bin\Debug\Deadlocks.pdb
+E:\C# Course\Chapter 09 - 01\3\Deadlocks\Deadlocks\obj\Debug\Deadlocks.csprojResolveAssemblyReference.cache
+E:\C# Course\Chapter 09 - 01\3\Deadlocks\Deadlocks\obj\Debug\Deadlocks.csproj.CoreCompileInputs.cache
+E:\C# Course\Chapter 09 - 01\3\Deadlocks\Deadlocks\obj\Debug\Deadlocks.exe
+E:\C# Course\Chapter 09 - 01\3\Deadlocks\Deadlocks\obj\Debug\Deadlocks.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\Deadlocks\After\Deadlocks\Deadlocks\bin\Debug\Deadlocks.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\Deadlocks\After\Deadlocks\Deadlocks\bin\Debug\Deadlocks.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\Deadlocks\After\Deadlocks\Deadlocks\bin\Debug\Deadlocks.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\Deadlocks\After\Deadlocks\Deadlocks\obj\Debug\Deadlocks.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\Deadlocks\After\Deadlocks\Deadlocks\obj\Debug\Deadlocks.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\Deadlocks\After\Deadlocks\Deadlocks\obj\Debug\Deadlocks.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\Deadlocks\After\Deadlocks\Deadlocks\obj\Debug\Deadlocks.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Deadlocks\Deadlocks\bin\Debug\Deadlocks.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Deadlocks\Deadlocks\bin\Debug\Deadlocks.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Deadlocks\Deadlocks\bin\Debug\Deadlocks.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Deadlocks\Deadlocks\obj\Debug\Deadlocks.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Deadlocks\Deadlocks\obj\Debug\Deadlocks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Deadlocks\Deadlocks\obj\Debug\Deadlocks.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Deadlocks\Deadlocks\obj\Debug\Deadlocks.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\Deadlocks\Deadlocks\obj\Debug\Deadlocks.pdb

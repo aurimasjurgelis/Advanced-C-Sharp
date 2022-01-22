@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a9188103-b8db-44f7-be0b-8295210ad624": {
+      "ProjectGuid": "a9188103-b8db-44f7-be0b-8295210ad624",
+      "DisplayName": "Multithreaded Applications",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

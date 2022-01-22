@@ -1,0 +1,20 @@
+E:\C# Course\Chapter 09 - 01\5\AsyncAwaitApp\AsyncAwaitApp\bin\Debug\AsyncAwaitApp.exe.config
+E:\C# Course\Chapter 09 - 01\5\AsyncAwaitApp\AsyncAwaitApp\bin\Debug\AsyncAwaitApp.exe
+E:\C# Course\Chapter 09 - 01\5\AsyncAwaitApp\AsyncAwaitApp\bin\Debug\AsyncAwaitApp.pdb
+E:\C# Course\Chapter 09 - 01\5\AsyncAwaitApp\AsyncAwaitApp\obj\Debug\AsyncAwaitApp.csproj.CoreCompileInputs.cache
+E:\C# Course\Chapter 09 - 01\5\AsyncAwaitApp\AsyncAwaitApp\obj\Debug\AsyncAwaitApp.exe
+E:\C# Course\Chapter 09 - 01\5\AsyncAwaitApp\AsyncAwaitApp\obj\Debug\AsyncAwaitApp.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AsyncAndAwait\Before\AsyncAwaitApp\AsyncAwaitApp\bin\Debug\AsyncAwaitApp.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AsyncAndAwait\Before\AsyncAwaitApp\AsyncAwaitApp\bin\Debug\AsyncAwaitApp.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AsyncAndAwait\Before\AsyncAwaitApp\AsyncAwaitApp\bin\Debug\AsyncAwaitApp.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AsyncAndAwait\Before\AsyncAwaitApp\AsyncAwaitApp\obj\Debug\AsyncAwaitApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AsyncAndAwait\Before\AsyncAwaitApp\AsyncAwaitApp\obj\Debug\AsyncAwaitApp.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\AsyncAndAwait\Before\AsyncAwaitApp\AsyncAwaitApp\obj\Debug\AsyncAwaitApp.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\AsyncAwaitApp\AsyncAwaitApp\bin\Debug\AsyncAwaitApp.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\AsyncAwaitApp\AsyncAwaitApp\bin\Debug\AsyncAwaitApp.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\AsyncAwaitApp\AsyncAwaitApp\bin\Debug\AsyncAwaitApp.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\AsyncAwaitApp\AsyncAwaitApp\obj\Debug\AsyncAwaitApp.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\AsyncAwaitApp\AsyncAwaitApp\obj\Debug\AsyncAwaitApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\AsyncAwaitApp\AsyncAwaitApp\obj\Debug\AsyncAwaitApp.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\AsyncAwaitApp\AsyncAwaitApp\obj\Debug\AsyncAwaitApp.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\AsyncAwaitApp\AsyncAwaitApp\obj\Debug\AsyncAwaitApp.pdb

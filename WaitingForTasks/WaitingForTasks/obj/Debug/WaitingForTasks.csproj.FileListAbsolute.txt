@@ -1,0 +1,22 @@
+E:\C# Course\Chapter 09 - 01\5\WaitingForTasks\WaitingForTasks\bin\Debug\WaitingForTasks.exe.config
+E:\C# Course\Chapter 09 - 01\5\WaitingForTasks\WaitingForTasks\bin\Debug\WaitingForTasks.exe
+E:\C# Course\Chapter 09 - 01\5\WaitingForTasks\WaitingForTasks\bin\Debug\WaitingForTasks.pdb
+E:\C# Course\Chapter 09 - 01\5\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.csproj.CoreCompileInputs.cache
+E:\C# Course\Chapter 09 - 01\5\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.exe
+E:\C# Course\Chapter 09 - 01\5\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.pdb
+E:\C# Course\Chapter 09 - 01\5\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\WaitingForTasks\WaitingForTasks\bin\Debug\WaitingForTasks.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\WaitingForTasks\WaitingForTasks\bin\Debug\WaitingForTasks.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\WaitingForTasks\WaitingForTasks\bin\Debug\WaitingForTasks.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\WaitingForTasks\WaitingForTasks\bin\Debug\WaitingForTasks.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\WaitingForTasks\WaitingForTasks\bin\Debug\WaitingForTasks.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\WaitingForTasks\WaitingForTasks\bin\Debug\WaitingForTasks.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\WaitingForTasks\WaitingForTasks\obj\Debug\WaitingForTasks.pdb

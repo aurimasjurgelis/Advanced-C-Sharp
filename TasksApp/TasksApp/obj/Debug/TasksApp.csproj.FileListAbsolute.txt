@@ -1,0 +1,21 @@
+E:\C# Course\Chapter 09 - 01\5\TasksApp\TasksApp\bin\Debug\TasksApp.exe.config
+E:\C# Course\Chapter 09 - 01\5\TasksApp\TasksApp\bin\Debug\TasksApp.exe
+E:\C# Course\Chapter 09 - 01\5\TasksApp\TasksApp\bin\Debug\TasksApp.pdb
+E:\C# Course\Chapter 09 - 01\5\TasksApp\TasksApp\obj\Debug\TasksApp.csproj.CoreCompileInputs.cache
+E:\C# Course\Chapter 09 - 01\5\TasksApp\TasksApp\obj\Debug\TasksApp.exe
+E:\C# Course\Chapter 09 - 01\5\TasksApp\TasksApp\obj\Debug\TasksApp.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TasksApp\TasksApp\bin\Debug\TasksApp.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TasksApp\TasksApp\bin\Debug\TasksApp.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TasksApp\TasksApp\bin\Debug\TasksApp.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TasksApp\TasksApp\obj\Debug\TasksApp.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TasksApp\TasksApp\obj\Debug\TasksApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TasksApp\TasksApp\obj\Debug\TasksApp.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TasksApp\TasksApp\obj\Debug\TasksApp.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TasksApp\TasksApp\bin\Debug\TasksApp.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TasksApp\TasksApp\bin\Debug\TasksApp.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TasksApp\TasksApp\bin\Debug\TasksApp.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TasksApp\TasksApp\obj\Debug\TasksApp.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TasksApp\TasksApp\obj\Debug\TasksApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TasksApp\TasksApp\obj\Debug\TasksApp.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TasksApp\TasksApp\obj\Debug\TasksApp.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TasksApp\TasksApp\obj\Debug\TasksApp.pdb

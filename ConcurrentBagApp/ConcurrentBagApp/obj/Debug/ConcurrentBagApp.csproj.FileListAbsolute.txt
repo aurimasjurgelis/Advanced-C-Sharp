@@ -1,0 +1,20 @@
+E:\C# Course\Chapter 09 - 01\6\ConcurrentBagApp\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.csproj.CoreCompileInputs.cache
+E:\C# Course\Chapter 09 - 01\6\ConcurrentBagApp\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.exe.config
+E:\C# Course\Chapter 09 - 01\6\ConcurrentBagApp\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.exe
+E:\C# Course\Chapter 09 - 01\6\ConcurrentBagApp\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.pdb
+E:\C# Course\Chapter 09 - 01\6\ConcurrentBagApp\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.exe
+E:\C# Course\Chapter 09 - 01\6\ConcurrentBagApp\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ConcurrentBagApp\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ConcurrentBagApp\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ConcurrentBagApp\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ConcurrentBagApp\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ConcurrentBagApp\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ConcurrentBagApp\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConcurrentBagApp\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConcurrentBagApp\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConcurrentBagApp\ConcurrentBagApp\bin\Debug\ConcurrentBagApp.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConcurrentBagApp\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConcurrentBagApp\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConcurrentBagApp\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConcurrentBagApp\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ConcurrentBagApp\ConcurrentBagApp\obj\Debug\ConcurrentBagApp.pdb

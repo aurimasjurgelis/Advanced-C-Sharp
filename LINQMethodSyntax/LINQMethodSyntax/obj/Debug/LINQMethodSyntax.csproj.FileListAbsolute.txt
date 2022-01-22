@@ -1,0 +1,20 @@
+E:\C# Course\Chapter 09 - 01\LINQMethodSyntax\LINQMethodSyntax\bin\Debug\LINQMethodSyntax.exe.config
+E:\C# Course\Chapter 09 - 01\LINQMethodSyntax\LINQMethodSyntax\bin\Debug\LINQMethodSyntax.exe
+E:\C# Course\Chapter 09 - 01\LINQMethodSyntax\LINQMethodSyntax\bin\Debug\LINQMethodSyntax.pdb
+E:\C# Course\Chapter 09 - 01\LINQMethodSyntax\LINQMethodSyntax\obj\Debug\LINQMethodSyntax.csproj.CoreCompileInputs.cache
+E:\C# Course\Chapter 09 - 01\LINQMethodSyntax\LINQMethodSyntax\obj\Debug\LINQMethodSyntax.exe
+E:\C# Course\Chapter 09 - 01\LINQMethodSyntax\LINQMethodSyntax\obj\Debug\LINQMethodSyntax.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\LINQMethodSyntax\After\LINQMethodSyntax\LINQMethodSyntax\bin\Debug\LINQMethodSyntax.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\LINQMethodSyntax\After\LINQMethodSyntax\LINQMethodSyntax\bin\Debug\LINQMethodSyntax.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\LINQMethodSyntax\After\LINQMethodSyntax\LINQMethodSyntax\bin\Debug\LINQMethodSyntax.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\LINQMethodSyntax\After\LINQMethodSyntax\LINQMethodSyntax\obj\Debug\LINQMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\LINQMethodSyntax\After\LINQMethodSyntax\LINQMethodSyntax\obj\Debug\LINQMethodSyntax.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\LINQMethodSyntax\After\LINQMethodSyntax\LINQMethodSyntax\obj\Debug\LINQMethodSyntax.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\LINQMethodSyntax\LINQMethodSyntax\bin\Debug\LINQMethodSyntax.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\LINQMethodSyntax\LINQMethodSyntax\bin\Debug\LINQMethodSyntax.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\LINQMethodSyntax\LINQMethodSyntax\bin\Debug\LINQMethodSyntax.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\LINQMethodSyntax\LINQMethodSyntax\obj\Debug\LINQMethodSyntax.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\LINQMethodSyntax\LINQMethodSyntax\obj\Debug\LINQMethodSyntax.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\LINQMethodSyntax\LINQMethodSyntax\obj\Debug\LINQMethodSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\LINQMethodSyntax\LINQMethodSyntax\obj\Debug\LINQMethodSyntax.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\LINQMethodSyntax\LINQMethodSyntax\obj\Debug\LINQMethodSyntax.pdb

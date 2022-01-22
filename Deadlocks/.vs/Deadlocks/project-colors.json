@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f16e1dd1-579d-48ed-b514-d846e70b9e0d": {
+      "ProjectGuid": "f16e1dd1-579d-48ed-b514-d846e70b9e0d",
+      "DisplayName": "Deadlocks",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

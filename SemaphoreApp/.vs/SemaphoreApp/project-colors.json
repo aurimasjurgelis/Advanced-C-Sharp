@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b507e656-8f55-415f-a747-d3ca58a85b7f": {
+      "ProjectGuid": "b507e656-8f55-415f-a747-d3ca58a85b7f",
+      "DisplayName": "SemaphoreApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

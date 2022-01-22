@@ -1,0 +1,21 @@
+E:\C# Course\Chapter 09 - 01\2\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.exe.config
+E:\C# Course\Chapter 09 - 01\2\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.exe
+E:\C# Course\Chapter 09 - 01\2\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.pdb
+E:\C# Course\Chapter 09 - 01\2\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.csprojResolveAssemblyReference.cache
+E:\C# Course\Chapter 09 - 01\2\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.csproj.CoreCompileInputs.cache
+E:\C# Course\Chapter 09 - 01\2\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.exe
+E:\C# Course\Chapter 09 - 01\2\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ManagingThreads\After\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ManagingThreads\After\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ManagingThreads\After\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ManagingThreads\After\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ManagingThreads\After\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\ManagingThreads\After\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ManagingThreads\ManagingThreads\bin\Debug\ManagingThreads.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\ManagingThreads\ManagingThreads\obj\Debug\ManagingThreads.pdb

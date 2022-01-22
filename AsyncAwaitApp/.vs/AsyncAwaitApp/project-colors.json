@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "159f4e05-cb58-4266-95a7-5aac7d955c44": {
+      "ProjectGuid": "159f4e05-cb58-4266-95a7-5aac7d955c44",
+      "DisplayName": "AsyncAwaitApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

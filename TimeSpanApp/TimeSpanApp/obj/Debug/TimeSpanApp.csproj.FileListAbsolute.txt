@@ -1,0 +1,22 @@
+E:\C# Course\Chapter 09 - 01\2\TimeSpanApp\TimeSpanApp\bin\Debug\TimeSpanApp.exe.config
+E:\C# Course\Chapter 09 - 01\2\TimeSpanApp\TimeSpanApp\bin\Debug\TimeSpanApp.exe
+E:\C# Course\Chapter 09 - 01\2\TimeSpanApp\TimeSpanApp\bin\Debug\TimeSpanApp.pdb
+E:\C# Course\Chapter 09 - 01\2\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.csprojResolveAssemblyReference.cache
+E:\C# Course\Chapter 09 - 01\2\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.csproj.CoreCompileInputs.cache
+E:\C# Course\Chapter 09 - 01\2\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.exe
+E:\C# Course\Chapter 09 - 01\2\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TimeSpanApp\TimeSpanApp\bin\Debug\TimeSpanApp.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TimeSpanApp\TimeSpanApp\bin\Debug\TimeSpanApp.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TimeSpanApp\TimeSpanApp\bin\Debug\TimeSpanApp.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.csprojResolveAssemblyReference.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TimeSpanApp\TimeSpanApp\bin\Debug\TimeSpanApp.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TimeSpanApp\TimeSpanApp\bin\Debug\TimeSpanApp.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TimeSpanApp\TimeSpanApp\bin\Debug\TimeSpanApp.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TimeSpanApp\TimeSpanApp\obj\Debug\TimeSpanApp.pdb

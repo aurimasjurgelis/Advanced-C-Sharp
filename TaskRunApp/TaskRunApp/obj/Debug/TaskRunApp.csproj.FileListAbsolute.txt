@@ -1,0 +1,20 @@
+E:\C# Course\Chapter 09 - 01\5\TaskRunApp\TaskRunApp\bin\Debug\TaskRunApp.exe.config
+E:\C# Course\Chapter 09 - 01\5\TaskRunApp\TaskRunApp\bin\Debug\TaskRunApp.exe
+E:\C# Course\Chapter 09 - 01\5\TaskRunApp\TaskRunApp\bin\Debug\TaskRunApp.pdb
+E:\C# Course\Chapter 09 - 01\5\TaskRunApp\TaskRunApp\obj\Debug\TaskRunApp.csproj.CoreCompileInputs.cache
+E:\C# Course\Chapter 09 - 01\5\TaskRunApp\TaskRunApp\obj\Debug\TaskRunApp.exe
+E:\C# Course\Chapter 09 - 01\5\TaskRunApp\TaskRunApp\obj\Debug\TaskRunApp.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TaskRunApp\TaskRunApp\bin\Debug\TaskRunApp.exe.config
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TaskRunApp\TaskRunApp\bin\Debug\TaskRunApp.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TaskRunApp\TaskRunApp\bin\Debug\TaskRunApp.pdb
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TaskRunApp\TaskRunApp\obj\Debug\TaskRunApp.csproj.CoreCompileInputs.cache
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TaskRunApp\TaskRunApp\obj\Debug\TaskRunApp.exe
+C:\Users\Ahmad\Desktop\Projects\Chapter 09\TaskRunApp\TaskRunApp\obj\Debug\TaskRunApp.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TaskRunApp\TaskRunApp\bin\Debug\TaskRunApp.exe.config
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TaskRunApp\TaskRunApp\bin\Debug\TaskRunApp.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TaskRunApp\TaskRunApp\bin\Debug\TaskRunApp.pdb
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TaskRunApp\TaskRunApp\obj\Debug\TaskRunApp.csproj.AssemblyReference.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TaskRunApp\TaskRunApp\obj\Debug\TaskRunApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TaskRunApp\TaskRunApp\obj\Debug\TaskRunApp.csproj.CoreCompileInputs.cache
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TaskRunApp\TaskRunApp\obj\Debug\TaskRunApp.exe
+C:\Users\Aurimas\Desktop\Advanced-C-Sharp\TaskRunApp\TaskRunApp\obj\Debug\TaskRunApp.pdb

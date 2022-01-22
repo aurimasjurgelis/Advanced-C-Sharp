@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "02b82daa-88e4-46f8-ae82-c22a0d0ac42b": {
+      "ProjectGuid": "02b82daa-88e4-46f8-ae82-c22a0d0ac42b",
+      "DisplayName": "LINQMethodSyntax",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

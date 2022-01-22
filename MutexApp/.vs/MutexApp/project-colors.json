@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "255839e7-03e2-4958-b017-229fb4f2eaeb": {
+      "ProjectGuid": "255839e7-03e2-4958-b017-229fb4f2eaeb",
+      "DisplayName": "MutexApp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
